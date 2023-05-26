@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Colibri&weight=600&size=27&pause=1000&color=243FF7F8&width=435&lines=Ol%C3%A1!+Sou+a+Fl%C3%A1via+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=D737A6&center=true&width=435&height=51&lines=Ol%C3%A1+pessoal+%F0%9F%98%83%F0%9F%91%8B)](https://git.io/typing-svg)
+
+## Sejam bem vidos ao meu GitHub
+
+Meu nome é Flávia Herculano, sou uma entusiasta da tecnologia, estou iniciando na carreira de Dev. Tenho formação em Desenvolvimento FullStack pela Trybe, uma escola de desenvolvimento web.
+Estou animada com essa nova etapa da minha carreira e procuro oportunidades desafiadoras onde eu possa aplicar meu conhecimento em desenvolvimento FullStack, combinado com minha experiência anterior em administração.
+Estou pronta para contribuir com minha experiência e habilidades técnicas!
 
 ## Conjunto de habilidades :muscle:
 
